@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      test
+      todo가 될 화면
     </div>
   );
 }
